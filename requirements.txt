@@ -1,0 +1,8 @@
+# Direct dependencies observed in the working Windows environment.
+# Python 3.11 (64-bit). This is not a full transitive dependency lock.
+gradio==6.12.0
+torch==2.9.1
+torchvision==0.24.1
+numpy==2.2.6
+matplotlib==3.10.7
+Pillow==12.0.0
