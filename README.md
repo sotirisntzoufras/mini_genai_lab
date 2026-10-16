@@ -146,3 +146,6 @@ Paper authors: Sotirios Ntzoufras, Marianthi Liapi, Konstantinos-Alketas Oungrin
 The associated paper presents the pedagogical framework, implementation, and planned evaluation. The software makes selected relationships visible: training material, independent AE/VAE training, latent representation, and distinct post-training operations. Reconstruction, generation, and interpolation are different ways of using a trained model. Learning effectiveness has not yet been empirically assessed in the supplied manuscript.
 
 Repository: https://github.com/sotirisntzoufras/mini_genai_lab
+
+## License
+This project is licensed under the MIT License — see the LICENSE file for details.
