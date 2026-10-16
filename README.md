@@ -1,3 +1,4 @@
+---
 # Mini GenAI Lab
 
 A local educational application for architecture students to explore how training data and model parameters affect image reconstruction and generation. The interface brings together dataset construction, independent Autoencoder (AE) and Variational Autoencoder (VAE) training, reconstruction, generation, interpolation, and comparison.
@@ -143,7 +144,9 @@ Affiliation: **Technical University of Crete (TUC), School of Architecture, Chan
 
 Paper authors: Sotirios Ntzoufras, Marianthi Liapi, Konstantinos-Alketas Oungrinis, and Anastasia-Maria Kyriakopoulou.
 
-The associated paper presents the pedagogical framework, implementation, and planned evaluation. The software makes selected relationships visible: training material, independent AE/VAE training, latent representation, and distinct post-training operations. Reconstruction, generation, and interpolation are different ways of using a trained model. Learning effectiveness has not yet been empirically assessed in the supplied manuscript.
+The associated paper presents the pedagogical framework, implementation, and planned evaluation. The software makes selected relationships visible: training material, independent AE/VAE training, latent representation, and distinct post-training operations. Reconstruction, generation, and interpolation are different ways of using a trained model. Its learning effectiveness has not yet been empirically assessed; this will be examined in a planned workshop with architecture students.
+
+Accepted for publication and presentation at the 14th International Conference ON ARCHITECTURE (OA2026), Belgrade, 3–4 December 2026. Proceedings forthcoming.
 
 Repository: https://github.com/sotirisntzoufras/mini_genai_lab
 
